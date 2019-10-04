@@ -4,7 +4,7 @@ require 'pry'
 
 def key_for_min_value(name_hash)
   min_value = Float::INFINITY 
-  k_num = nil
+  min_key = nil
   if name_hash.empty?
     nil
   else
