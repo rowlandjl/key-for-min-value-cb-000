@@ -12,7 +12,7 @@ def key_for_min_value(name_hash)
         v_num = value
         k_num = key
       end
-      k_num 
     end
+    k_num
   end
 end
