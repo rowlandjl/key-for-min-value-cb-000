@@ -11,7 +11,8 @@ def key_for_min_value(name_hash)
       if v_num.to_f > value
         v_num = value
         k_num = key
-      end 
+      end
+      k_num 
     end
   end
 end
